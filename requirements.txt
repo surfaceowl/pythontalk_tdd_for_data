@@ -1,5 +1,6 @@
 black==19.3b0
 datatest==0.9.6
+ipytest==0.6.0
 ipywidgets==7.5.0
 jupyter==1.0.0
 jupyter-nbextensions-configurator==0.4.1
