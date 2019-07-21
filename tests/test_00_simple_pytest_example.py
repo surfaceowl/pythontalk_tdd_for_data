@@ -1,8 +1,7 @@
 """
-simple example of pytest usage
+basic usage example of pytest
 """
 import pytest
-
 from src.pytest_simple_example import add_two_ints
 
 

@@ -12,4 +12,4 @@ def add_two_ints(first_int, second_int):
     :rtype: int
     """
 
-    return 2*first_int + second_int
+    return first_int + second_int
