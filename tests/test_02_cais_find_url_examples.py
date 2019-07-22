@@ -25,7 +25,7 @@ def test_find_single_url():
     assert find_url(input01, result) == "www.prioryca.org"
 
 
-def do_this_later_test_find_multi_url():
+def test_find_multi_url():
     """
     unit test multiple strings for urls in bulk - rather than separate test functions for each
     one way to rapidly iterate on your code, nicely encapsulates similar cases
@@ -56,7 +56,7 @@ def do_this_later_test_find_multi_url():
     assert find_url(input08, result) is None
 
 
-def do_this_later_test_find_url_from_excelfile():
+def PARK_test_find_url_from_excelfile():
     """
     integration test to find url from excel file
     :return: None

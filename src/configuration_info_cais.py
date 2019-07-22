@@ -4,7 +4,7 @@ configuration info for name and address logic
 """
 
 # data and test data paths and common files
-datapath_tests = "./data/test_cais/"
+datapath_tests = "../data/test_cais/"
 
 # all cais excel files from pdf directories are organized by section, with specific cell content
 # first three members of this list must be in the order: MEMBER SCHOOLS, HEADS, DIRECTORS

@@ -1,7 +1,9 @@
 <component name="ProjectDictionaryState">
   <dictionary name="chris">
     <words>
+      <w>brousseau</w>
       <w>datatest</w>
+      <w>ipytest</w>
       <w>ipywidgets</w>
       <w>jupyterlab</w>
       <w>missingno</w>
