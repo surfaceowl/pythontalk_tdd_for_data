@@ -14,42 +14,6 @@ from src.configuration_info_cais import list_section_names
 logging.basicConfig(level=logging.WARN)
 
 
-# noinspection Annotator
-def find_url(content, result):
-    """
-    finds url of school if it exists in cell
-    :param content: cell content from spreadsheet
-    :type content: string
-    :param result: dict of details on current school
-    :type result: dict
-    :return: url
-    :rtype: basestring
-    """
-    if check_if_already_found("url", result):
-        return result['url']
-
-    # different regex to use during python talk
-    # https://regex101.com
-    regex0 = re.compile(r"w{3}.*", re.IGNORECASE)
-    # regex1 = re.compile(r"(http|https):\/\/.*", re.IGNORECASE)  # EDIT THIS LIVE
-
-    # regex2 = re.compile(
-    #   r"((http|https):\/\/)?[a-zA-Z0-9.\/?::-_=#]+\.([a-zA-Z]){2,6}([a-zA-Z0-9..\/&\/\-_=#])*",
-    #   re.IGNORECASE)
-
-    try:
-        match = re.search(regex0,
-                          str(content))
-    except TypeError:
-        raise TypeError
-
-    if match:
-        url = str(match.group()).strip()
-        return url
-    else:
-        return None
-
-
 def check_is_section_name(content):
     """
     checks if cell content is in list of known lines to skip
