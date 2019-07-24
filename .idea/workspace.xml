@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b2fd9f9-8db8-472a-bd8c-fd4c62a5298f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/excel_find_url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_talk.tdd_for_data_science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_talk.tdd_for_data_science.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TDD_for_data_cleaning_with_pytest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TDD_for_data_cleaning_with_pytest.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/excel_read_cell_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/excel_read_cell_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_02_cais_find_single_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_02_cais_find_single_url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_03_cais_find_https_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_03_cais_find_https_url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_04_cais_find_multi_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_04_cais_find_multi_url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/excel_find_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/excel_find_url.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/tests/test_03_cais_find_https_url.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -54,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/excel_find_url.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state relative-caret-position="230">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
               <folding>
                 <element signature="e#68#77#0" expanded="true" />
               </folding>
@@ -153,46 +151,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="pythontalk.tdd_for_data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontalk.tdd_for_data" type="462c0819:PsiDirectoryNode" />
+              <item name="pythontalk_tdd_for_data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythontalk_tdd_for_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pythontalk.tdd_for_data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontalk.tdd_for_data" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythontalk.tdd_for_data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontalk.tdd_for_data" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="test_datatest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythontalk.tdd_for_data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontalk.tdd_for_data" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythontalk.tdd_for_data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythontalk.tdd_for_data" type="462c0819:PsiDirectoryNode" />
+              <item name="pythontalk_tdd_for_data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythontalk_tdd_for_data" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="javascript.nodejs.core.library.configured.version" value="11.9.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -206,7 +188,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\chris\AppData\Roaming\npm\node_modules\prettier" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2487757" />
   </component>
   <component name="RecentsManager">
@@ -372,13 +354,12 @@
       <workItem from="1563913741662" duration="4024000" />
       <workItem from="1563919418090" duration="357000" />
       <workItem from="1563919927031" duration="3062000" />
+      <workItem from="1563926934362" duration="1040000" />
+      <workItem from="1563929908600" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_04_cais_find_multi_url_py - 2019.07.23 at 16h 11m 54s.xml">
-      <configuration name="pytest in test_04_cais_find_multi_url.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_test_02_cais_find_single_url_py - 2019.07.23 at 16h 12m 15s.xml">
       <configuration name="pytest in test_02_cais_find_single_url.py" configurationId="tests" />
     </history-entry>
@@ -406,20 +387,23 @@
     <history-entry file="pytest_in_tests - 2019.07.23 at 16h 13m 22s.xml">
       <configuration name="pytest in tests" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_tests - 2019.07.23 at 17h 57m 27s.xml">
+      <configuration name="pytest in tests" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51931000" />
+    <option name="totallyTimeSpent" value="53569000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.128125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12802498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32950193" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5501916" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5501916" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -459,7 +443,7 @@
     <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_in_test_01_datatest_movies_df_unit_py.coverage" NAME="pytest in test_01_datatest_movies_df_unit.py Coverage Results" MODIFIED="1563920048944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_in_test_02_cais_find_single_url_py.coverage" NAME="pytest in test_02_cais_find_single_url.py Coverage Results" MODIFIED="1563923576996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_in_test_02_cais_find_url_examples_py.coverage" NAME="pytest in test_02_cais_find_url_examples.py Coverage Results" MODIFIED="1563897084579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_in_tests.coverage" NAME="pytest in tests Coverage Results" MODIFIED="1563923595261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_in_tests.coverage" NAME="pytest in tests Coverage Results" MODIFIED="1563929844249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/excel_read_file_functions.py">
@@ -575,13 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/excel_read_cell_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_05_cais_name_count_2013.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -589,6 +566,13 @@
           <folding>
             <element signature="e#641#655#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excel_read_cell_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -602,14 +586,14 @@
     <entry file="file://$PROJECT_DIR$/tests/test_03_cais_find_https_url.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/excel_find_url.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        <state relative-caret-position="230">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding>
             <element signature="e#68#77#0" expanded="true" />
           </folding>
