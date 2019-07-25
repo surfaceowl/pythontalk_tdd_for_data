@@ -3,7 +3,9 @@
 
 
 import re
+
 from src.excel_read_cell_info import check_if_already_found
+
 
 def find_url(content, result):
     """
@@ -21,12 +23,12 @@ def find_url(content, result):
         # different regex to use during python talk
         # https://regex101.com
 
-    regex = re.compile(r"w{3}.*", re.IGNORECASE)
+    # regex = re.compile(r"w{3}.*", re.IGNORECASE)
     # regex = re.compile(r"(http|https):\/\/.*", re.IGNORECASE)  # EDIT THIS LIVE
 
-    # regex = re.compile(
-    # r"((http|https):\/\/)?[a-zA-Z0-9.\/?::-_=#]+\.([a-zA-Z]){2,6}([a-zA-Z0-9..\/&\/\-_=#])*",
-    # re.IGNORECASE)
+    regex = re.compile(
+    r"((http|https):\/\/)?[a-zA-Z0-9.\/?::-_=#]+\.([a-zA-Z]){2,6}([a-zA-Z0-9..\/&\/\-_=#])*",
+    re.IGNORECASE)
 
     try:
         match = re.search(regex,

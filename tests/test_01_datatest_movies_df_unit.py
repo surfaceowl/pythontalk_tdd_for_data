@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import pandas as pd
 import datatest as dt
+import pandas as pd
 
 
 def setUpModule():
