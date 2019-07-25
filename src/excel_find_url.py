@@ -20,8 +20,8 @@ def find_url(content, result):
     if check_if_already_found("url", result):
         return result['url']
 
-        # different regex to use during python talk
-        # https://regex101.com
+    # different regex to use during python talk
+    # https://regex101.com  -- use this to test different regex vs data patterns
 
     # regex = re.compile(r"w{3}.*", re.IGNORECASE)
     # regex = re.compile(r"(http|https):\/\/.*", re.IGNORECASE)  # EDIT THIS LIVE

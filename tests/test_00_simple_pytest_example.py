@@ -3,7 +3,7 @@ basic usage example of pytest
 """
 import pytest
 
-from pytest_simple_example import add_two_ints
+from src.pytest_simple_example import add_two_ints
 
 
 @pytest.mark.filterwarnings("ignore: :DeprecationWarning")

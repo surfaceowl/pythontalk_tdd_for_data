@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b2fd9f9-8db8-472a-bd8c-fd4c62a5298f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_talk.tdd_for_data_science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_talk.tdd_for_data_science.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TDD_for_data_cleaning_with_pytest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TDD_for_data_cleaning_with_pytest.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/excel_find_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/excel_find_url.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_00_simple_pytest_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_00_simple_pytest_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_01_datatest_movies_df_unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_01_datatest_movies_df_unit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_06_cais_name_count_2018.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_06_cais_name_count_2018.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_02_cais_find_single_url.py">
+  <component name="RunManager" selected="Python tests.pytest in tests">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_talk.tdd_for_data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,8 +212,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_02_cais_find_single_url.py" />
         <item itemvalue="Python tests.pytest in tests" />
+        <item itemvalue="Python tests.pytest in test_02_cais_find_single_url.py" />
         <item itemvalue="Python tests.pytest in test_00_simple_pytest_example.py" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.setup" />
@@ -262,7 +252,7 @@
       <workItem from="1563992775703" duration="65000" />
       <workItem from="1563992901816" duration="914000" />
       <workItem from="1563994126008" duration="2341000" />
-      <workItem from="1564005600997" duration="4865000" />
+      <workItem from="1564005600997" duration="5058000" />
     </task>
     <servers />
   </component>
@@ -290,7 +280,7 @@
     <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_in_test_03_cais_find_https_url_py.coverage" NAME="pytest in test_03_cais_find_https_url.py Coverage Results" MODIFIED="1563923571329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1564005187639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_for_test_00_simple_pytest_example_test_simple_example.coverage" NAME="pytest for test_00_simple_pytest_example.test_simple_example Coverage Results" MODIFIED="1563586457394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_in_tests.coverage" NAME="pytest in tests Coverage Results" MODIFIED="1564011294852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_in_tests.coverage" NAME="pytest in tests Coverage Results" MODIFIED="1564014724117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_in_test_cais_name_count_2013_py.coverage" NAME="pytest in test_cais_name_count_2013.py Coverage Results" MODIFIED="1563486790222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_in_test_00_simple_pytest_example_py.coverage" NAME="pytest in test_00_simple_pytest_example.py Coverage Results" MODIFIED="1564008403220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
     <SUITE FILE_PATH="coverage/pythontalk_tdd_for_data$pytest_in_test_06_cais_name_count_2018_py.coverage" NAME="pytest in test_06_cais_name_count_2018.py Coverage Results" MODIFIED="1563922086264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
