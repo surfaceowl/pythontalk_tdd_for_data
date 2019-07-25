@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b2fd9f9-8db8-472a-bd8c-fd4c62a5298f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TDD_for_data_cleaning_with_pytest_BACKUP_PRESENTATION.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/excel_find_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/excel_find_url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_00_simple_pytest_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_00_simple_pytest_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD_for_data_cleaning_with_pytest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TDD_for_data_cleaning_with_pytest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -252,7 +254,7 @@
       <workItem from="1563992775703" duration="65000" />
       <workItem from="1563992901816" duration="914000" />
       <workItem from="1563994126008" duration="2341000" />
-      <workItem from="1564005600997" duration="5058000" />
+      <workItem from="1564005600997" duration="7083000" />
     </task>
     <servers />
   </component>

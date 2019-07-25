@@ -48,13 +48,19 @@ There are five test files to explore:
 
 test_00_simple_pytest_example.py
 
-test_01_datatest_example.py
+test_01_datatest_movies_df_unit.py -- first test will always fail; uses two copies of source data to mock fix of bad data in pipeline
 
-test_02_cais_find_url_examples.py -- requires editing /src/read_excel_info.find_url to make tests pass
+test_02_cais_find_single_url.py -- first of TDD for non-tidy data
 
-test_03_cais_name_count_2013.py -- illustrates using supplemental input files for testing
+test_03_cais_find_https  -- requires editing /src/read_excel_info.find_url to make tests pass; test multiple edge cases at once
 
-PARK_test_04_cais_name_count_2018.py
+test_04_cais_find_multi_url.py -- requires editing /src/read_excel_info.find_url to make tests pass; test multiple edge cases at once
+
+test_05_cais_name_count_2013.py -- illustrates using supplemental input files for testing
+
+*and*
+
+test_06_cais_name_count_2018.py -- test strategy using data-driven test inputs
 
 
 ## Built With
@@ -62,6 +68,7 @@ PARK_test_04_cais_name_count_2018.py
 * [pytest](https://docs.pytest.org/en/latest/ ) - framework for writing and running tests
 * [datatest](https://datatest.readthedocs.io/en/stable/) - data-wrangling and data validation in a testing framework
 * [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - library to read/write Microsoft Excel files (2010 and later)
+* [ipytest](https://github.com/chmp/ipytest) - pypi library that enables running pytest from jupyter notebooks () 
 
 
 ## Authors
@@ -75,6 +82,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+*Hat tips to:*
+
+* **[Moshe Zadka](https://github.com/moshez)** for his excellent example of [unittest in jupyter notebooks](https://github.com/moshez/interactive-unit-test/blob/master/unit_testing.ipynb), plus review of this talk before Pyninsula
+
+* **[Mahmoud Hashemi](https://github.com/mahmoud)** for suggesting [datatest library]() and hosting a great meetup
