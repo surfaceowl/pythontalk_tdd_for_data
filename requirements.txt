@@ -1,11 +1,11 @@
 black==19.3b0
 datatest==0.9.6
-ipytest==0.6.0
-ipywidgets==7.5.0
+ipytest==0.7.1
+ipywidgets==7.5.1
 jupyter==1.0.0
 jupyter-contrib-nbextensions==0.5.1
 jupyter-nbextensions-configurator==0.4.1
-nb_black==1.0.5
+nb_black==1.0.6
 openpyxl==2.6.2
 pandas==0.25.0  # for datatest example in notebook
 pur==5.2.2
