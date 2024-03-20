@@ -1,4 +1,4 @@
-black==19.3b0
+black==24.3.0
 datatest==0.9.6
 ipytest==0.7.1
 ipywidgets==7.5.1
