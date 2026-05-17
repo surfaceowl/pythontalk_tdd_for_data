@@ -10,5 +10,5 @@ openpyxl==2.6.2
 pandas==0.25.0  # for datatest example in notebook
 pur==5.2.2
 pytest-cov==2.7.1
-pytest==5.0.1
+pytest==9.0.3
 rise==5.5.1
